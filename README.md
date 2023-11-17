@@ -31,11 +31,13 @@
   ###   ●	Open the file from the USB storage and select the Print option.
 
 ## Input:
-![273425264-d9638bad-b0e7-4bfd-b7e0-ba585d17433d](https://github.com/RKavikeerthana/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/120431120/3e8d7ae8-8756-4681-b70f-2e6abee46878)
+![image](https://github.com/RKavikeerthana/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/120431120/2ff58bd5-879f-42c3-add9-8aa72f490baf)
+
 
 ### Output:
+![image](https://github.com/RKavikeerthana/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/120431120/445eba54-396a-4795-9ebc-f7af7e7b0d32)
 
-![273425256-667a5c47-fdc5-4de8-a35c-46993d52dd12](https://github.com/RKavikeerthana/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/120431120/d5ecccc4-8339-449e-8125-9f99128953fa)
+
 
 ### Name: R.KAVI KEERTHANA
 ### Register Number: 212222100022
